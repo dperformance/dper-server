@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dper-server
+
+server:
+  port: 8888
